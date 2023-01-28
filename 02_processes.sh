@@ -1,6 +1,6 @@
 # for unix epoch timestamp
 DATEFORMAT="%Y-%m-%d %H:%M:%S%z"
-INTERVAL=1
+INTERVAL=10
 CMD_PROCESSES="ps aux "
 CMD_ISTATS="istats --no-graphs"
 
